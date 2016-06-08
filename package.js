@@ -3,7 +3,7 @@ Package.describe({
   summary: 'Simple HTML5 Charts using the <canvas> tag',
   git: 'https://github.com/cien-ben/meteor-chartjs.git',
   version: "1.0.0",
-  documentation: "README.md"
+  documentation: null
 });
 
 Package.on_use(function (api) {

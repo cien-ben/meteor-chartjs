@@ -6,7 +6,7 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.add_files([
-    'chart.js'
+    'lib/chartjs.js'
   ], 'client');
   api.export('Chart');
 });

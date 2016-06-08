@@ -1,12 +1,6 @@
-# This is no longer maintained!
-
-Sorry, time constraints have stopped from keeping track of this package. I recommend you look for alternatives on atmospherejs.
-
 # Chart.js for Meteor 
 
-*Tested against Meteor v1.0.2.1*
-*Updated to use latest Chartjs 1.0.1-beta4 version*
-
+- Updated to ChartJS 2.1.4
 - Package version: v0.0.6
 
 The minified JS file has been modified from the official version to fix issues with Meteor and the latest 1.0.1-beta2 changes.
@@ -24,13 +18,10 @@ On the branch 'test' there is an example of how to use ChartJs with Meteor.
 
 * Meteor
 * NPM
-* Meteorite
 
 ## How do I install this?
 
-1. Install Meteorite `npm install -g meteorite`
-2. Create Your project `mrt create mynewapp`
-3. Add chartjs `mrt add chartjs`
+1. Add chartjs `meteor add chartjs`
 
 ## References
 
